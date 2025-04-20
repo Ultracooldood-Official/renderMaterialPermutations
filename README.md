@@ -8,4 +8,4 @@ Install the plugin using Blender's menu
 ## Step 2:
 Choose your asset library folder, and make sure all of the materials are preloaded by dragging them onto any object, one by one
 ## Step 3:
-Select your objects
+Select your objects and materials, and the output path
